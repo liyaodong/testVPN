@@ -31,7 +31,7 @@ def ping():
             if m is not None:
                 avgtime = m.group(1)
                 print "%s: %s" % (ip, avgtime)
-                if float(avgtime) < best['speed']:
+                if float(avgtime) < float(best['speed']):
                     best['host'] = ip
                     best['speed'] = avgtime
                 stat.append((ip, avgtime))
