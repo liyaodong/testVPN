@@ -1,0 +1,14 @@
+jp1.towersee.com
+jp2.towersee.com
+jp3.towersee.com
+us1.towersee.com
+us2.towersee.com
+us3.towersee.com
+us4.towersee.com
+us5.towersee.com
+sg1.towersee.com
+sg2.towersee.com
+hk1.towersee.com
+hk2.towersee.com
+tw1.towersee.com
+uk1.towersee.com
